@@ -1,0 +1,275 @@
+    1  git status
+    2  pwd
+    3  gi congif --global user.name
+    4  git congif --global user.name
+    5  git config --global user.name
+    6  git config --global user.name Shubham-Patil34
+    7  git config --global user.email shubhamkhpatil@gmail.com
+    8  git config --global user.name
+    9  git config --global user.email
+   10  ode.
+   11  code.
+   12  code .
+   13  git init
+   14  ls -lart
+   15  git status
+   16  git checkout
+   17  git status
+   18  git add -a
+   19  git add -A
+   20  git status
+   21  git commit -a -m "done"
+   22  git status
+   23  git checkout
+   24  git remote add origin https://github.com/Shubham-Patil34/Demo-repo.git
+   25  git remote
+   26  git remote -v
+   27  git push origin master
+   28  $ ssh-keygen -t ed25519 -C "shubhamkhpatil@gmail.com"
+   29  ssh-keygen -t ed25519 -C "shubhamkhpatil@gmail.com"
+   30  eval "$(ssh-agent -s)"
+   31  ssh-add ~/.ssh/id_ed25519
+   32  clip < ~/.ssh/id_ed25519.pub
+   33  clip < ~/.ssh/id_ed25519.pub
+   34  ~/.ssh/id_ed25519.pub
+   35  cat ~/.ssh/id_ed25519.pub
+   36  git push -u origin master
+   37  git remote set url origin git@github.com:Shubham-Patil34/Demo-repo.git
+   38  git remote set-url origin git@github.com:Shubham-Patil34/Demo-repo.git
+   39  git remote
+   40  git push -u origin master
+   41  init
+   42  git init
+   43  ls
+   44  git rm -f .git
+   45  git init
+   46  git status
+   47  clear
+   48  git config --global user.name
+   49  git config --global user.email
+   50  ls
+   51  touch login.php
+   52  touch signup.php
+   53  code .
+   54  touch .gitignore
+   55  code .
+   56  git status
+   57  git status
+   58  git add login.php 
+   59  git add signup.php 
+   60  git .gitignore
+   61  git add .gitignore
+   62  git status
+   63  git status
+   64  git add -A
+   65  git status
+   66  git rm -f signup.php 
+   67  code . login.php 
+   68  git status
+   69  git status
+   70  code . login.php 
+   71  git init
+   72  code . login.php 
+   73  ls
+   74  git add -a
+   75  git add -A
+   76  git status
+   77  git status
+   78  git status
+   79  git add login.php 
+   80  git status
+   81  git commit
+   82  git remote add loginmodule git@github.com:Shubham-Patil34/User_login_signup_API_in_PHP.git~
+   83  git remote
+   84  git push -u loginmodule master
+   85  git remote add loginmodule git@github.com:Shubham-Patil34/User_login_signup_API_in_PHP.git
+   86  git remote set-url loginmodule git@github.com:Shubham-Patil34/User_login_signup_API_in_PHP.git
+   87  git push -u loginmodule master
+   88  git status
+   89  git add dbconnection.png 
+   90  git push
+   91  git status
+   92  git commit -m "Code test output snapshot using Postman app"
+   93  git status
+   94  git push
+   95  git status
+   96  git diff
+   97  git add login.php 
+   98  git status
+   99  git commit -m "Input credentials verification module completed"
+  100  git add -A
+  101  git status
+  102  git log -p -3
+  103  git log
+  104  git commit -m "Input verification snapshot using Postman app and table content"
+  105  git status
+  106  git log -p -3
+  107  git push
+  108  exit
+  109  git status
+  110  git config --global user.name
+  111  code .
+  112  git status
+  113  git add index.html
+  114  git status
+  115  git status
+  116  git add index.html
+  117  git add index.html
+  118  git status
+  119  git commit
+  120  git status
+  121  git checkout index.html
+  122  git checkout index.html
+  123  git status
+  124  git checkout index.html
+  125  git status
+  126  git diff index.html
+  127  git checkout index.html
+  128  git log
+  129  touch new.txt
+  130  git status -s
+  131  ls
+  132  git add new.txt
+  133  git status -s
+  134  git commmit -m "Added new file"
+  135  git commit -m "Added new file"
+  136  git status -s
+  137  git status -s
+  138  git add new.txt
+  139  git status -s
+  140  git status -s
+  141  git rm --cached new.txt
+  142  git add new.txt
+  143  git rm --cached new.txt
+  144  git status
+  145  git add new.txt
+  146  git status -s
+  147  git rm new.txt
+  148  git add new.txt
+  149  git status
+  150  git status
+  151  git rm new.txt
+  152  ls
+  153  git rm -f new.txt
+  154  ls
+  155  git commmit -m "Removed new file"
+  156  git commit -m "Removed new file"
+  157  git log -p -2
+  158  git status
+  159  git push
+  160  git banch
+  161  git branch
+  162  git status
+  163  exit
+  164  git
+  165  git status
+  166  ls
+  167  touch signup.php
+  168  code . signup.php 
+  169  git status
+  170  git add signup.php 
+  171  git status
+  172  code . signup.php 
+  173  git status
+  174  git diff
+  175  git cheeckout signup.php
+  176  git checkout signup.php
+  177  git commit -m "Database connection module completed"
+  178  git push
+  179  git pull
+  180  git push
+  181  git status
+  182  git add -A
+  183  git commit
+  184  git push
+  185  git status
+  186  git add -a
+  187  git add -A
+  188  ls
+  189  git push
+  190  git status
+  191  git clone https://github.com/Shubham-Patil34/Git_test_for_AMM.git
+  192  git status
+  193  git branch -a
+  194  cd Git_test_for_AMM/
+  195  git status
+  196  git branch -a
+  197  touch myFile.txt
+  198  git branch feature/onmylaptop
+  199  git branch -a
+  200  git checkout feature/onmylaptop
+  201  git branch -a
+  202  git status
+  203  git add myFile.txt
+  204  git status
+  205  git commit "my first commit added myfile to new branch"
+  206  git commit -m "my first commit added myfile to new branch"
+  207  git status
+  208  git branch -a
+  209  git pull
+  210   git branch --set-upstream-to=origin/<branch> feature/onmylaptop
+  211   git branch --set-upstream-to=origin/<branch> feature/onmylaptop
+  212   git branch --set-upstream-to=origin/ feature/onmylaptop
+  213   git branch --set-upstream-to=origin feature/onmylaptop
+  214  git pull
+  215  git push
+  216  git push origin HEAD
+  217  git help
+  218  git help merge
+  219  git merge
+  220  git pull
+  221  touch myFile_2.txt
+  222  cat > myFile_2.txt 
+  223  git status
+  224  git help add
+  225  git add -A
+  226  ls
+  227  git status
+  228  git diff
+  229  git diff  myFile_2.txt
+  230  git help diff
+  231  git commit -m "My second commit Added anither text file"
+  232  git pull
+  233  git push
+  234  git brach -a
+  235  git branch -a
+  236  git checkout remotes/origin/feature/onmylaptop
+  237  git checkout feature/onmylaptop
+  238  git status
+  239  git push
+  240  git push origin HEAD 
+  241  git branch features/newone
+  242  git checkout features/newone 
+  243  cat > myfile_3.txt
+  244  git status
+  245  git add -A
+  246  git pull
+  247  git push
+  248  git branch --set-upstream-to=origin/feature/onmylaptop features/newone
+  249  git push
+  250  git push origin HEAD:feature/onmylaptop 
+  251  ls
+  252  git status 
+  253  git commit -m "My third commit Added 3rd file"
+  254  git status 
+  255  git push origin HEAD:feature/onmylaptop 
+  256  cat > myfile_4.txt
+  257  git add -A
+  258  git commit -m "My fourth commit Added 4th file"
+  259  git status 
+  260  git push origin HEAD:feature/onmylaptop 
+  261  cat > myfile_5.txt
+  262  git add -A
+  263  git commit -m "My fifth commit Added 5th file"
+  264  git push origin HEAD:feature/onmylaptop 
+  265  cat > myfile_6.txt
+  266  git add -A
+  267  git commit -m "My sixth commit Added 6th file"
+  268  git push origin HEAD:feature/onmylaptop 
+  269  git merge
+  270  git checkout feature/onmylaptop 
+  271  git merge features/newone
+  272  git push
+  273  git push origin HEAD 
+  274  history
+  275  history > git_commands.txt
